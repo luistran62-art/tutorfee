@@ -1,0 +1,5 @@
+{
+  "name": "TutorFee AI - Hệ thống Tính Học Phí Tự Động",
+  "description": "Ứng dụng quản lý và tính toán học phí tự động dành cho giáo viên và trung tâm, tích hợp AI để đối soát dữ liệu từ Google Calendar và Gmail.",
+  "requestFramePermissions": []
+}
